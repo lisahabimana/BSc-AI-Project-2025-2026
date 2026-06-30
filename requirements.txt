@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-google-genai
+langchain-openai
+langchain-anthropic
+langchain-groq
+langgraph
+
+pandas
+matplotlib
+seaborn
+reportlab
+
+pypdf
+scikit-learn
+json-repair
